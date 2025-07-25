@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @1stlazyCoder
-- 👀 I’m interested in finding out new things, like new tools in python or their working and making any think as perfect as i can or as it can be.
-- 🌱 I’m currently learning python , trading , undergraduate in Computer engineering and some other mini tasks. 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I can do any think when i am being so much lazy.  
+👋 Hi there! I’m  @1stlazyCoder,a Computer Engineering student and a passionate self-learner, currently 20 and exploring diverse tech skills to build a bright, halal future.
 
-<!---
-1stlazyCoder/1stlazyCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 What I do:
+
+📹 Video Editing (YouTube & Social Media Content)
+
+✍️ Content & Blog Writing
+
+💻 Intermediate Python & C++ Development
+
+🌐 Web Development & Shopify Store Design
+
+🎮 When I’m not coding or editing videos, you’ll find me gaming or reading deep psychological quotes — always seeking ideas that inspire and challenge me.
+
+🚀 Goals:
+I’m on a mission to build, learn, and grow through honest, halal business opportunities. Every project I create is a step towards sustainable and ethical income, and I’m open to collaboration, feedback, and new ideas.
+
+🤝 Let’s Connect:
+Feel free to check out my projects, suggest improvements, or connect for collaboration!
